@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536047030538.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2500611822",
+    "id" : "2EA79351",
+    "lastKnownWriteTime" : 1536071435,
+    "last_content_update" : 1536071435161,
+    "path" : "C:/Users/bhengukn/Desktop/data carpentry/code-handout.R",
+    "project_path" : "code-handout.R",
+    "properties" : {
+        "cursorPosition" : "347,26",
+        "scrollLine" : "333"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
